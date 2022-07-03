@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-07-02T00:38:04" hostname="BASMAASHRAF" time="0.014">
+  <properties/>
+  <testcase name="TestIsNOTTriangle1" classname="DemoTest" time="0.007"/>
+  <testcase name="TestIsNOTTriangle2" classname="DemoTest" time="0.001"/>
+  <testcase name="TestIsNOTTriangle3" classname="DemoTest" time="0.0"/>
+  <testcase name="TestIsNOTTriangle4" classname="DemoTest" time="0.0"/>
+  <testcase name="TestIsNOTTriangle5" classname="DemoTest" time="0.0"/>
+  <testcase name="TestIsTriangle1" classname="DemoTest" time="0.0"/>
+  <testcase name="TestISTriangle2" classname="DemoTest" time="0.0"/>
+  <testcase name="TestISTriangle3" classname="DemoTest" time="0.0"/>
+  <testcase name="TestISTriangle4" classname="DemoTest" time="0.0"/>
+  <testcase name="TestISTriangle5" classname="DemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
