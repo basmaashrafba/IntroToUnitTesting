@@ -1,0 +1,10 @@
+Hey
+I want to share the Errors faced me through this project
+
+1- Make sure that you used Eclipse version works with java version 8, the latest versions from eclipse don't work with JDK8
+  I used Eclipse 03-2019, Java 8 and Gradle 7.4 
+  You don't need to uninstall your java version you can update your JAVA_HOME and Path From Edit the system environment variables.
+
+
+2- Mutant Error "Learner did not properly terminate mutant version!" you can download "Pitclipse" from Eclipse Marketplace. 
+It will help you to figure out in which line you don't have enough test cases to cover all valid and invalid cases.
